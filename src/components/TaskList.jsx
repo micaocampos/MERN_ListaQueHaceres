@@ -35,7 +35,7 @@ function TaskList() {
   
     return (
       <div>
-        <h2>Task List</h2>
+        <h2>Lista de tareas</h2>
         <div>
           <input
             type="text"
